@@ -1,0 +1,10 @@
+*.out
+.vscode
+*.pb.go
+.idea
+*.bin
+.gradle
+build
+bin
+.ipynb_checkpoints
+
